@@ -1,0 +1,12 @@
+{
+    "openui5.camera": {
+        "icon": "sap-icon://camera",
+        "name": "Camera",
+        "description": "A pure javascript UI5 control that enables device's camera access and easy snapshots",
+        "source": "https://github.com/jumpifzero/openui5-camera.git",
+        "documentation": "http://jumpifzero.github.io/openui5-camera/",
+        "demo": "https://jumpifzero.github.io/openui5-camera/",
+        "version": "0.0.5",
+        "license": "Apache-2.0"
+    }
+}
